@@ -2,6 +2,7 @@
 
 A black, white and red theme for KDE Plasma 6. It matches the [crimson-dusk SDDM theme](https://github.com/davidlovcov/crimson-dusk-sddm), so login, splash and desktop all look the same.
 
+![desktop](previews/desktop.jpg)
 ![splash](previews/splash.jpg)
 ![clock](previews/clock.jpg)
 ![palette](previews/palette.png)
