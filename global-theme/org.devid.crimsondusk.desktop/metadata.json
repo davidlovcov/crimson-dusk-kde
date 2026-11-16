@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "org.devid.crimsondusk.desktop",
+        "Name": "Crimson Dusk",
+        "Description": "Black, white and red global theme with a matching splash screen",
+        "Authors": [ { "Name": "devid" } ],
+        "Category": "",
+        "License": "GPL-3.0",
+        "Version": "1.0",
+        "Website": "https://github.com/davidlovcov/crimson-dusk-kde"
+    },
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Id": "org.devid.crimsondusk.clock",
+        "Name": "Crimson Dusk Clock",
+        "Description": "Clock and date in the Crimson Dusk style",
+        "Category": "Date and Time",
+        "Icon": "preferences-system-time",
+        "Authors": [ { "Name": "devid" } ],
+        "License": "GPL-3.0",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
